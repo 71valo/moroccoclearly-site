@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 64 64" role="img" aria-labelledby="title"><title id="title">Morocco, Clearly — teal and copper doorway</title><rect width="64" height="64" rx="13" fill="#154F55"/><path d="M13 54V37C8 32 10 24 15 19C20 14 28 12 32 7C36 12 44 14 49 19C54 24 56 32 51 37V54Z" fill="#F5EAD6"/><path d="M18 54V33C18 26 24 22 32 20C40 22 46 26 46 33V54Z" fill="#BC704C"/><path d="M32 20V54" stroke="#F5EAD6" stroke-width="1.8"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M16 86 V52 C9 44 13 22 33 22 C53 22 57 44 50 52 V86" fill="none" stroke="#A8462A" stroke-width="15"/>
+  <path d="M50 52 C43 44 47 22 67 22 C87 22 91 44 84 52 V86" fill="none" stroke="#A8462A" stroke-width="15"/>
+</svg>

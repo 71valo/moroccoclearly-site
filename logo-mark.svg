@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Morocco, Clearly">
+  <path d="M16 86 V52 C9 44 13 22 33 22 C53 22 57 44 50 52 V86" fill="none" stroke="#A8462A" stroke-width="10"/>
+  <path d="M50 52 C43 44 47 22 67 22 C87 22 91 44 84 52 V86" fill="none" stroke="#A8462A" stroke-width="10"/>
+  <g transform="translate(67 46)">
+    <rect x="-6" y="-6" width="12" height="12" fill="#24418F"/>
+    <rect x="-6" y="-6" width="12" height="12" fill="#24418F" transform="rotate(45)"/>
+  </g>
+</svg>
