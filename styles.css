@@ -45,3 +45,11 @@ nav{gap:24px}nav a,.button,.textlink{font-size:14px}.eyebrow,.card-num,.image-ta
 .inner-hero+.section.compact-top{padding-top:0}
 .fact-sources h2{font-size:26px;margin-bottom:10px}
 .fact-card .card-num{min-height:3.4em}
+.route-map{max-width:420px;margin:0 0 36px}
+.route-map svg{display:block;width:100%;height:auto}
+.route-map .line{fill:none;stroke:var(--accent);stroke-width:4;stroke-linecap:round}
+.route-map .line-alt{fill:none;stroke:var(--text-muted);stroke-width:3;stroke-dasharray:8 6;stroke-linecap:round}
+.route-map .stop{fill:var(--bg);stroke:var(--text);stroke-width:3}
+.route-map .name{fill:var(--text);font:600 15px var(--font-body)}
+.route-map .how{fill:var(--text-muted);font:13px var(--font-body)}
+.route-map figcaption{font-size:13px;color:var(--text-muted);margin-top:8px}
