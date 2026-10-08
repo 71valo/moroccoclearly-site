@@ -58,3 +58,16 @@ h3.minor{font-size:17px;letter-spacing:-.015em;margin:25px 0 10px}
 .table-wrap:focus-visible{outline:3px solid var(--accent);outline-offset:4px}
 /* Print keeps the dated, accountable lines of the footer (CLAUDE.md rules 7 and 9), not its links. */
 @media print{footer{display:block!important;border-top:1px solid currentColor;margin-top:18pt;padding-top:8pt}.footer-top,.footer-links,footer details,.copyright{display:none!important}footer .small{font-size:9pt;margin:0 0 4pt}.fact-src{display:none}}
+
+/* Links and reading (Oct 2026). Terracotta stays the action colour (buttons, key figures); majorelle is the
+   link and navigation colour, so a link never looks like a button. Long text keeps to about 65–75 characters. */
+:root{--link:var(--majorelle)}
+@media(prefers-color-scheme:dark){:root{--link:color-mix(in srgb,var(--majorelle) 40%,var(--sand))}}
+.reading p a,.reading li a,.reading td a,.textlink,.fact-src,.fact-sources a,.jump a{color:var(--link)}
+.reading>p,.reading>ul,.reading>ol,.reading>h2,.reading>h3,.reading>.note{max-width:32em}
+.jump{font-size:14px;margin:12px 0 30px}
+/* Badges carry a shape as well as a colour and a word: the tick facts.py writes for source-checked,
+   a dashed ring for unconfirmed, a diamond for sources disagree. */
+.badge-unconfirmed::before,.badge-conflict::before{content:'';flex-shrink:0;box-sizing:border-box}
+.badge-unconfirmed::before{width:9px;height:9px;border:1.5px dashed currentColor;border-radius:50%}
+.badge-conflict::before{width:7px;height:7px;background:currentColor;transform:rotate(45deg)}
