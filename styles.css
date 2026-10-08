@@ -107,3 +107,22 @@ h3.minor{font-size:17px;letter-spacing:-.015em;margin:25px 0 10px}
 @media(max-width:760px){.inner-hero.has-art{grid-template-columns:1fr;gap:20px}.inner-hero.has-art .hero-art{grid-column:1;grid-row:auto;max-width:300px}
 .home-hero .hero-collage img{border-radius:18px 18px 70px 18px}.ask{padding:16px}.labels{grid-template-columns:1fr}.answer{padding:20px 20px 4px}}
 @media(prefers-reduced-motion:reduce){.topic img,.postcard-link img{transition:none}}
+
+/* Site map (sitemap.html): the page tree with connector lines; planned pages dashed. */
+.site-tree,.site-tree ul{list-style:none;margin:0;padding:0}
+.site-tree ul{margin-left:26px;padding-left:22px;border-left:2px solid var(--border)}
+.site-tree ul>li{position:relative}
+.site-tree ul>li::before{content:"";position:absolute;left:-22px;top:32px;width:18px;border-top:2px solid var(--border)}
+.site-tree ul>li:last-child{margin-left:-2px;border-left:2px solid var(--bg)}
+.site-tree ul>li:last-child::before{left:-20px}
+.st-row{display:flex;gap:14px;align-items:center;padding:7px 0;min-width:0}.st-row>div{display:grid;gap:4px;min-width:0}
+.st-thumb{width:64px;height:48px;border-radius:10px;flex-shrink:0;display:block;border:1px dashed var(--border);background:var(--surface)}
+img.st-thumb{border:0}
+.st-name{font:600 16px/1.35 var(--font-body);margin:0;overflow-wrap:anywhere}.st-name a{text-decoration:none;color:var(--text)}.st-name a:hover{color:var(--link);text-decoration:underline}
+.site-tree>li>.st-row .st-name{font:600 26px/1.2 var(--font-display)}
+.st-group h2{font-size:22px;margin:14px 0 2px}
+.st-meta{display:flex;flex-wrap:wrap;gap:6px}
+.st-chip{border:1px solid var(--border);border-radius:999px;padding:2px 9px;font-size:12px;font-weight:600;color:var(--text-muted)}
+.st-menu{color:var(--accent);border-color:var(--accent)}.st-facts{color:var(--link);border-color:var(--link)}
+.st-planned .st-name{font-weight:500;color:var(--text-muted)}.st-planned .st-chip{border-style:dashed}
+@media(max-width:640px){.site-tree ul{margin-left:12px;padding-left:14px}.site-tree ul>li::before{left:-14px;width:11px}.site-tree ul>li:last-child::before{left:-12px}.st-thumb{width:48px;height:36px}}
