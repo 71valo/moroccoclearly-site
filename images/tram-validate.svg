@@ -1,0 +1,13 @@
+<svg viewBox="0 0 360 180">
+  <rect width="360" height="180" fill="#FBF7F0"/>
+  <text x="180" y="32" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4A4F5C">Validate the same ticket three times</text>
+  <circle cx="60" cy="90" r="28" fill="#F5EDE1" stroke="#A8462A" stroke-width="2"/>
+  <text x="60" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">In</text>
+  <circle cx="180" cy="90" r="28" fill="#F5EDE1" stroke="#24418F" stroke-width="2"/>
+  <text x="180" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Change</text>
+  <circle cx="300" cy="90" r="28" fill="#F5EDE1" stroke="#3E6E57" stroke-width="2"/>
+  <text x="300" y="96" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Out</text>
+  <path d="M92 90 H148" fill="none" stroke="#E3D6C3" stroke-width="3"/>
+  <path d="M212 90 H268" fill="none" stroke="#E3D6C3" stroke-width="3"/>
+  <text x="180" y="156" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Keep the ticket until you have left the station.</text>
+</svg>

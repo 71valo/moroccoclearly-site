@@ -1,0 +1,16 @@
+<svg viewBox="0 0 360 300">
+  <rect width="360" height="300" fill="#FBF7F0"/>
+  <text x="180" y="40" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="600" fill="#1D2330">Menara airport</text>
+  <path d="M180 52 L96 118" fill="none" stroke="#A8462A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M180 52 L264 118" fill="none" stroke="#24418F" stroke-width="3" stroke-linecap="round"/>
+  <rect x="26" y="118" width="140" height="62" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="96" y="146" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Bus 19</text>
+  <text x="96" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">toward the city</text>
+  <rect x="194" y="118" width="140" height="62" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="264" y="146" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Taxi rank</text>
+  <text x="264" y="166" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">on the esplanade</text>
+  <path d="M96 180 L180 236" fill="none" stroke="#A8462A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M264 180 L180 236" fill="none" stroke="#24418F" stroke-width="3" stroke-linecap="round"/>
+  <text x="180" y="262" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="600" fill="#1D2330">A medina gate</text>
+  <text x="180" y="284" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Then you walk. Not to scale.</text>
+</svg>

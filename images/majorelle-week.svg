@@ -1,0 +1,15 @@
+<svg viewBox="0 0 360 210">
+  <rect width="360" height="210" fill="#FBF7F0"/>
+  <text x="180" y="28" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4A4F5C">What is closed on Wednesday</text>
+  <rect x="16" y="48" width="100" height="100" rx="8" fill="#E4EFE8" stroke="#3E6E57"/>
+  <text x="66" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#1D2330">Garden</text>
+  <text x="66" y="114" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2C5442">Open</text>
+  <rect x="130" y="48" width="100" height="100" rx="8" fill="#F6E3DA" stroke="#8A3620"/>
+  <text x="180" y="86" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#1D2330">YSL</text>
+  <text x="180" y="106" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#1D2330">Museum</text>
+  <text x="180" y="128" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8A3620">Closed</text>
+  <rect x="244" y="48" width="100" height="100" rx="8" fill="#F6E3DA" stroke="#8A3620"/>
+  <text x="294" y="92" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#1D2330">Villa Oasis</text>
+  <text x="294" y="114" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#8A3620">Closed</text>
+  <text x="180" y="180" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">The gardens own homepage is the place to recheck.</text>
+</svg>
