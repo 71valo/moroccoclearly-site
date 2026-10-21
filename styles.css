@@ -25,8 +25,10 @@ nav{gap:24px}nav a,.button,.textlink{font-size:14px}.eyebrow,.card-num,.image-ta
 .fact-value{font-weight:600;font-variant-numeric:tabular-nums}
 .badge{display:inline-flex;align-items:center;gap:5px;font:600 12px/1.3 var(--font-body);padding:3px 10px;border-radius:999px;vertical-align:.1em;white-space:nowrap}
 .badge-checked{background:var(--mint-bg);color:var(--mint-ink)}
+.badge-official{background:var(--paper);color:var(--majorelle);box-shadow:inset 0 0 0 1px var(--majorelle)}
 .badge-conflict{background:var(--conflict-bg);color:var(--conflict-ink)}
 .badge-unconfirmed{color:var(--text-muted);box-shadow:inset 0 0 0 1px var(--control-border)}
+@media(prefers-color-scheme:dark){.badge-official{color:var(--sand);background:transparent;box-shadow:inset 0 0 0 1px var(--sand)}}
 .fact-src{display:inline-block;min-height:24px;line-height:24px;padding:0 4px;font-size:13px;color:var(--accent);white-space:nowrap}
 .fact-sources{border-top:1px solid var(--border);margin-top:48px;padding-top:24px;font-size:14px}
 .fact-sources li{margin-bottom:10px;overflow-wrap:anywhere}
@@ -98,8 +100,14 @@ h3.minor{font-size:17px;letter-spacing:-.015em;margin:25px 0 10px}
 .postcard-link:hover img{transform:rotate(0) translateY(-4px)}
 .labels{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:22px}
 .labels>div{border-top:2px solid var(--text);padding-top:20px}.labels p{font-size:15px;margin-top:12px}
-.answer{background:var(--surface);border:1px solid var(--border);border-top:4px solid var(--accent);border-radius:10px;padding:24px 28px 6px;margin:8px 0 40px;max-width:32em}
+.answer{background:var(--surface);border:1px solid var(--border);border-top:4px solid var(--accent);border-radius:10px;padding:24px 28px 6px;margin:8px 0 18px;max-width:40em}
 .answer .eyebrow{color:var(--accent);margin-bottom:12px}.answer p{font-size:18px;color:var(--text)}
+.guide-updated{font-size:14px;color:var(--text-muted);margin:0 0 14px}
+.how-checked{margin:0 0 28px;max-width:40em;border:1px solid var(--border);border-radius:8px;background:var(--surface);padding:0 18px}
+.how-checked summary{padding:14px 0}
+.guide-figure{margin:0 0 28px;max-width:40em}
+.guide-figure img{width:100%;height:auto;border-radius:8px;object-fit:contain;background:var(--surface)}
+.guide-figure figcaption{font-size:13px;color:var(--text-muted);margin-top:8px}
 .byline{display:flex;gap:16px;align-items:flex-start;padding-bottom:26px;margin-bottom:30px;border-bottom:1px solid var(--border);max-width:40em}
 .byline img{width:44px;height:44px;flex-shrink:0;border-radius:50%;background:var(--surface);border:1px solid var(--border);padding:6px}
 .byline p{margin:0 0 6px;font-size:15px}.byline .source{font-size:13px}.byline .jump{margin:0}
