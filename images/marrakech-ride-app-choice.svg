@@ -1,0 +1,18 @@
+<svg viewBox="0 0 360 340">
+  <rect width="360" height="340" fill="#FBF7F0"/>
+  <text x="180" y="32" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">A short ride in Marrakech</text>
+  <rect x="28" y="50" width="304" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="74" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">1</text>
+  <text x="72" y="74" font-family="sans-serif" font-size="15" fill="#1D2330">Open the app at your door</text>
+  <text x="72" y="94" font-family="sans-serif" font-size="13" fill="#4A4F5C">A car on the screen, or no car</text>
+  <rect x="28" y="122" width="304" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="146" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">2</text>
+  <text x="72" y="146" font-family="sans-serif" font-size="15" fill="#1D2330">If no car is offered</text>
+  <text x="72" y="166" font-family="sans-serif" font-size="13" fill="#4A4F5C">Use a petit taxi in town</text>
+  <rect x="28" y="194" width="304" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="218" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">3</text>
+  <text x="72" y="218" font-family="sans-serif" font-size="15" fill="#1D2330">Ask for the meter first</text>
+  <text x="72" y="238" font-family="sans-serif" font-size="13" fill="#4A4F5C">Agree any named price before you sit</text>
+  <text x="180" y="286" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">The newsroom and the city list do not agree.</text>
+  <text x="180" y="308" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">No city fare is published.</text>
+</svg>
