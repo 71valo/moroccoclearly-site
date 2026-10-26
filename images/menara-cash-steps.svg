@@ -1,0 +1,14 @@
+<svg viewBox="0 0 360 300">
+  <rect width="360" height="300" fill="#FBF7F0"/>
+  <text x="180" y="36" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Cash before you leave the hall</text>
+  <rect x="28" y="58" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="89" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">1</text>
+  <text x="72" y="89" font-family="sans-serif" font-size="15" fill="#1D2330">Border control is listed all night</text>
+  <rect x="28" y="124" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="155" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">2</text>
+  <text x="72" y="155" font-family="sans-serif" font-size="15" fill="#1D2330">Exchange counter, if one is open</text>
+  <rect x="28" y="190" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="221" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">3</text>
+  <text x="72" y="221" font-family="sans-serif" font-size="15" fill="#1D2330">Keep dirhams for the ride</text>
+  <text x="180" y="274" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Hours and cash machines are not on the sheet.</text>
+</svg>
