@@ -1,0 +1,15 @@
+<svg viewBox="0 0 360 320">
+  <rect width="360" height="320" fill="#FBF7F0"/>
+  <text x="180" y="34" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Before the car moves</text>
+  <rect x="28" y="52" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="83" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">1</text>
+  <text x="72" y="83" font-family="sans-serif" font-size="15" fill="#1D2330">Name where you are going</text>
+  <rect x="28" y="118" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="149" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">2</text>
+  <text x="72" y="149" font-family="sans-serif" font-size="15" fill="#1D2330">Ask for the meter</text>
+  <rect x="28" y="184" width="304" height="52" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="48" y="215" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">3</text>
+  <text x="72" y="215" font-family="sans-serif" font-size="15" fill="#1D2330">A named price is the offer</text>
+  <text x="180" y="268" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">City pickup charge and night hour</text>
+  <text x="180" y="288" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">are not printed on these pages.</text>
+</svg>
