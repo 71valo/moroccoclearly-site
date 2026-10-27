@@ -1,0 +1,18 @@
+<svg viewBox="0 0 360 460">
+  <rect width="360" height="460" fill="#FBF7F0"/>
+  <text x="180" y="32" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="600" fill="#1D2330">Which door, then the medina</text>
+  <rect x="24" y="48" width="312" height="96" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="40" y="74" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">1 · Train list</text>
+  <text x="40" y="96" font-family="sans-serif" font-size="14" fill="#1D2330">Name: MARRAKECH. No street on the list.</text>
+  <text x="40" y="118" font-family="sans-serif" font-size="13" fill="#4A4F5C">Council page places it in Guéliz.</text>
+  <rect x="24" y="156" width="312" height="96" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="40" y="182" font-family="sans-serif" font-size="13" font-weight="600" fill="#24418F">2 · Coach, transport pages</text>
+  <text x="40" y="204" font-family="sans-serif" font-size="14" fill="#1D2330">Bab Doukkala, very close to a main gate.</text>
+  <text x="40" y="226" font-family="sans-serif" font-size="13" fill="#4A4F5C">French Guéliz list also names a coach station.</text>
+  <rect x="24" y="264" width="312" height="96" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="40" y="290" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">3 · The street on the ticket</text>
+  <text x="40" y="312" font-family="sans-serif" font-size="14" fill="#1D2330">CTM's list and another page disagree.</text>
+  <text x="40" y="334" font-family="sans-serif" font-size="13" fill="#4A4F5C">Do not pick a street the ticket does not name.</text>
+  <text x="180" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Ask for the meter before the bags go in.</text>
+  <text x="180" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">No walking time is printed.</text>
+</svg>
