@@ -1,0 +1,40 @@
+<svg viewBox="0 0 720 520" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="520" fill="#FBF7F0"/>
+  <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="600" fill="#1D2330">Marrakech to Fes by train</text>
+  <text x="360" y="56" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Al Atlas grid from 14 September 2026, clocks read 28 and 31 October and 1 November</text>
+  <rect x="24" y="78" width="200" height="150" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="124" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">Marrakech</text>
+  <text x="124" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#1D2330">First train 04:30</text>
+  <text x="124" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Train 600</text>
+  <text x="124" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Not on the Sunday search</text>
+  <text x="124" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#A8462A">One train number</text>
+  <rect x="260" y="78" width="200" height="150" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="360" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">Casa Voyageurs</text>
+  <text x="360" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#1D2330">Named on the grid</text>
+  <text x="360" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">A stop on the way</text>
+  <text x="360" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Not a change of train</text>
+  <text x="360" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Clock not printed here</text>
+  <rect x="496" y="78" width="200" height="150" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="596" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">Fes</text>
+  <text x="596" y="132" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#1D2330">Arrives 11:33</text>
+  <text x="596" y="152" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">7 hours 3 minutes</text>
+  <text x="596" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">on that first train</text>
+  <text x="596" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Station name FES</text>
+  <line x1="224" y1="140" x2="260" y2="140" stroke="#A8462A" stroke-width="2"/>
+  <line x1="460" y1="140" x2="496" y2="140" stroke="#A8462A" stroke-width="2"/>
+  <rect x="24" y="252" width="672" height="108" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="40" y="278" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">Fares where a price came back on 28 October 2026</text>
+  <text x="40" y="302" font-family="sans-serif" font-size="13" fill="#1D2330">Second class Flex 260 MAD, and 420 MAD for the higher comfort beside it</text>
+  <text x="40" y="322" font-family="sans-serif" font-size="13" fill="#1D2330">First class Flex 420 MAD, and Semi-Flex 350 MAD, in the window that was priced</text>
+  <text x="40" y="342" font-family="sans-serif" font-size="12" fill="#4A4F5C">Train 602 and the 22:00 train returned no price in these windows</text>
+  <rect x="24" y="378" width="328" height="112" rx="8" fill="#FBF7F0" stroke="#E3D6C3"/>
+  <text x="40" y="404" font-family="sans-serif" font-size="13" font-weight="600" fill="#24418F">Sunday 1 November</text>
+  <text x="40" y="428" font-family="sans-serif" font-size="12" fill="#1D2330">No train 600. First train 05:30</text>
+  <text x="40" y="448" font-family="sans-serif" font-size="12" fill="#1D2330">Train 628 at 18:35, arrives 01:33</text>
+  <text x="40" y="468" font-family="sans-serif" font-size="12" fill="#4A4F5C">No Sunday fare was read</text>
+  <rect x="368" y="378" width="328" height="112" rx="8" fill="#FBF7F0" stroke="#E3D6C3"/>
+  <text x="384" y="404" font-family="sans-serif" font-size="13" font-weight="600" fill="#24418F">Night train, not on the grid</text>
+  <text x="384" y="428" font-family="sans-serif" font-size="12" fill="#1D2330">S6110 at 22:00, arrives 06:50</text>
+  <text x="384" y="448" font-family="sans-serif" font-size="12" fill="#1D2330">8 hours 50 minutes, one train number</text>
+  <text x="384" y="468" font-family="sans-serif" font-size="12" fill="#4A4F5C">Not labelled Al Atlas on the sheet</text>
+</svg>
