@@ -1,0 +1,19 @@
+<svg viewBox="0 0 360 340">
+  <rect width="360" height="340" fill="#FBF7F0"/>
+  <text x="180" y="32" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#1D2330">Three results from the check</text>
+  <rect x="24" y="50" width="312" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="44" y="74" font-family="sans-serif" font-size="14" font-weight="600" fill="#A8462A">1</text>
+  <text x="68" y="74" font-family="sans-serif" font-size="14" fill="#1D2330">No visa step</text>
+  <text x="68" y="94" font-family="sans-serif" font-size="12" fill="#4A4F5C">Read the sentence in both languages</text>
+  <rect x="24" y="120" width="312" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="44" y="144" font-family="sans-serif" font-size="14" font-weight="600" fill="#A8462A">2</text>
+  <text x="68" y="144" font-family="sans-serif" font-size="14" fill="#1D2330">E-visa</text>
+  <text x="68" y="164" font-family="sans-serif" font-size="12" fill="#4A4F5C">One entry, and a capped stay</text>
+  <rect x="24" y="190" width="312" height="58" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="44" y="214" font-family="sans-serif" font-size="14" font-weight="600" fill="#24418F">3</text>
+  <text x="68" y="214" font-family="sans-serif" font-size="14" fill="#1D2330">AEVM, or a consular visa</text>
+  <text x="68" y="234" font-family="sans-serif" font-size="12" fill="#4A4F5C">A different paper from the e-visa</text>
+  <text x="180" y="278" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">The note and the portal do not share</text>
+  <text x="180" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">one passport line. No stamp is named.</text>
+  <text x="180" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">Diagram drawn for Morocco, Clearly.</text>
+</svg>
