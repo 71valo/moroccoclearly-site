@@ -1,0 +1,31 @@
+<svg viewBox="0 0 720 460">
+  <rect width="720" height="460" fill="#FBF7F0"/>
+  <text x="360" y="36" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="600" fill="#1D2330">Marrakech to Essaouira by coach</text>
+  <text x="360" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4A4F5C">Dates read: 28 and 31 October 2026</text>
+  <rect x="24" y="80" width="250" height="270" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="149" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">Marrakech</text>
+  <text x="40" y="140" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">CTM</text>
+  <text x="40" y="160" font-family="sans-serif" font-size="12" fill="#1D2330">Boulevard Aboubaker Seddik</text>
+  <text x="40" y="178" font-family="sans-serif" font-size="12" fill="#4A4F5C">One coach, 08:30</text>
+  <text x="40" y="196" font-family="sans-serif" font-size="12" fill="#4A4F5C">105 MAD on the search</text>
+  <text x="40" y="230" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">Supratours</text>
+  <text x="40" y="250" font-family="sans-serif" font-size="12" fill="#1D2330">Stop named Marrakech</text>
+  <text x="40" y="268" font-family="sans-serif" font-size="12" fill="#4A4F5C">Seven coaches, 07:30 to 19:00</text>
+  <text x="40" y="286" font-family="sans-serif" font-size="12" fill="#4A4F5C">No fare in the timetable</text>
+  <text x="40" y="318" font-family="sans-serif" font-size="12" fill="#4A4F5C">Also listed: Bab Doukkala,</text>
+  <text x="40" y="336" font-family="sans-serif" font-size="12" fill="#4A4F5C">Avenue Hassan II, Lot Zaitoun</text>
+  <text x="360" y="200" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#A8462A">3 hours</text>
+  <text x="360" y="222" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#1D2330">direct, these dates</text>
+  <line x1="286" y1="210" x2="330" y2="210" stroke="#A8462A" stroke-width="2"/>
+  <line x1="390" y1="210" x2="434" y2="210" stroke="#A8462A" stroke-width="2"/>
+  <rect x="446" y="80" width="250" height="270" rx="8" fill="#F5EDE1" stroke="#E3D6C3"/>
+  <text x="571" y="108" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="600" fill="#24418F">Essaouira</text>
+  <text x="462" y="140" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">CTM</text>
+  <text x="462" y="160" font-family="sans-serif" font-size="12" fill="#1D2330">Place 11 Janvier Lot Azlif</text>
+  <text x="462" y="178" font-family="sans-serif" font-size="12" fill="#4A4F5C">Arrives 11:30</text>
+  <text x="462" y="230" font-family="sans-serif" font-size="13" font-weight="600" fill="#A8462A">Supratours</text>
+  <text x="462" y="250" font-family="sans-serif" font-size="12" fill="#1D2330">Bin Lassouar</text>
+  <text x="462" y="268" font-family="sans-serif" font-size="12" fill="#4A4F5C">Last arrival 22:00</text>
+  <text x="360" y="390" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#1D2330">The route article prints about 8 hours, and a higher starting fare.</text>
+  <text x="360" y="414" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4A4F5C">The walk from either Essaouira stop into the medina is not measured here.</text>
+</svg>
